@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "splitwise": "^1.0.0"
+  },
+  "name": "evo_scraper",
+  "version": "1.0.0",
+  "main": "splitwise.js",
+  "scripts": {
+    "start": "node splitwise.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
